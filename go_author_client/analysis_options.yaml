@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+linter:
+  rules:
+    prefer_const_constructors: false
+    prefer_const_literals_to_create_immutables: false
+    constant_identifier_names: false
+    unnecessary_overrides: false
+    unnecessary_this: false
+    non_constant_identifier_names: false
+
+analyzer:
+  errors:
+    must_be_immutable: ignore

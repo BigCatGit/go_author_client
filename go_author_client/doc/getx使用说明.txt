@@ -1,0 +1,8 @@
+> 安装getx cli
+    flutter pub global activate get_cli
+
+> 创建页面
+    get create page:home
+
+> 添加依赖库
+    flutter pub add excel
